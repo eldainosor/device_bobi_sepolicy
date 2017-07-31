@@ -28,3 +28,6 @@ persist.sys.xtra-daemon.enabled        u:object_r:xtra_control_prop:s0 exact boo
 
 # allow settings to read selinux status
 ro.build.selinux                       u:object_r:build_prop:s0
+
+# Fonts
+sys.refresh_theme       u:object_r:theme_prop:s0
