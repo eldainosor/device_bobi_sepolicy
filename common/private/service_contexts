@@ -16,4 +16,4 @@ app_lock                                  u:object_r:app_lock_service:s0
 pocket                                    u:object_r:pocket_service:s0
 
 # FontService
-dufont                                    u:object_r:dufont_service:s0
+crfont                                    u:object_r:crfont_service:s0
